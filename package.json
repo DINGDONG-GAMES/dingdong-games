@@ -1,7 +1,7 @@
 {
   "name": "lottosti",
   "main": "หวยหุ้นสิงคโปร์ คืออะไร?",
-  "theme": "syntax",
+  "theme": "ui",
   "version": "1.4.0",
   "description": "หวยหุ้นสิงคโปร์ คืออะไร ออกผลยังไง เปิดขายเวลาไหนบ้าง?",
   "keywords": [

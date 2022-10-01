@@ -1,15 +1,15 @@
 {
-  "name": "lottosti",
-  "main": "หวยหุ้นสิงคโปร์ คืออะไร?",
+  "name": "laoviplotto",
+  "main": "หวยลาว VIP คืออะไร?",
   "theme": "ui",
-  "version": "2.0.0",
-  "description": "หวยหุ้นสิงคโปร์ คืออะไร ออกผลยังไง เปิดขายเวลาไหนบ้าง?",
+  "version": "3.0.0",
+  "description": "หวยลาว VIP คืออะไร ดูการออกผลได้ที่ไหน เปิดรับซื้อวันไหนบ้าง?",
   "keywords": [
     "ซื้อหวยออนไลน์",
     "แทงหวยออนไลน์",
     "เว็บหวยออนไลน์จ่ายจริง",
     "DINGDONG888",
-    "หวยหุ้นสิงคโปร์"
+    "หวยลาว VIP"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

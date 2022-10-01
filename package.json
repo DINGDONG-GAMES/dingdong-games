@@ -1,15 +1,15 @@
 {
-  "name": "lottohanoispecial",
+  "name": "dowlonesamerica",
   "main": "หวยฮานอยพิเศษ คืออะไร?",
   "theme": "ui",
-  "version": "11.3.0",
-  "description": "หวยฮานอยพิเศษ คืออะไร ออกผลยังไง เปิดรับซื้อเวลาไหนบ้าง?",
+  "version": "11.4.0",
+  "description": "หวยดาวโจนส์อเมริกา คืออะไร ออกผลยังไง เปิดรับซื้อเวลาไหนบ้าง?",
   "keywords": [
     "ซื้อหวยออนไลน์",
     "แทงหวยออนไลน์",
     "เว็บหวยออนไลน์จ่ายจริง",
     "DINGDONG888",
-    "หวยฮานอยพิเศษ"
+    "หวยดาวโจนส์อเมริกา"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

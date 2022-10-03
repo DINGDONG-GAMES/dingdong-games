@@ -1,15 +1,15 @@
 {
-  "name": "lottolaochaw",
-  "main": "หวยลาวเช้า คืออะไร?",
+  "name": "lottohanoispecial",
+  "main": "หวยฮานอยเฉพาะกิจ คืออะไร?",
   "theme": "ui",
   "version": "11.13.0",
-  "description": "หวยลาวเช้า คืออะไร?",
+  "description": "หวยฮานอยเฉพาะกิจ คืออะไร?",
   "keywords": [
     "ซื้อหวยออนไลน์",
     "แทงหวยออนไลน์",
     "เว็บหวยออนไลน์จ่ายจริง",
     "DINGDONG888",
-    "หวยลาวเช้า คืออะไร?"
+    "หวยฮานอยเฉพาะกิจ คืออะไร?"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

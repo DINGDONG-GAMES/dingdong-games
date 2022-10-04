@@ -1,15 +1,15 @@
 {
-  "name": "treasureofaztec-pgslot",
-  "main": "รีวิวสล็อต ขุมทรัพย์แห่งแอซเท็ค (Treasure of Aztec) – PG Slot",
+  "name": "luckyneko-pgslot",
+  "main": "รีวิว สล็อตแมว (Lucky Neko) – PG Slot",
   "theme": "ui",
   "version": "11.18.0",
-  "description": "รายละเอียดและข้อดีขอเกมสล็อต ขุมทรัพย์แห่งแอซเท็ค (Treasure of Aztec)",
+  "description": "รีวิว สล็อตแมว หรือ สล็อตเนโกะนำโชค (Lucky Neko) จากค่าย Pocket Gaming หรือ PG Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Treasure of Aztec",
-    "สล็อตสาวถ้ำ"
+    "Lucky Neko",
+    "สล็อตแมว"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

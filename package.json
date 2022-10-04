@@ -1,15 +1,15 @@
 {
-  "name": "luckyneko-pgslot",
-  "main": "รีวิว สล็อตแมว (Lucky Neko) – PG Slot",
+  "name": "destinyofsunandmoon-pgslot",
+  "main": "รีวิว สล็อตโชคชะตาแห่งตะวันและจันทรา (Destiny of Sun and Moon) – PG Slot",
   "theme": "ui",
   "version": "11.19.0",
-  "description": "รีวิว สล็อตแมว หรือ สล็อตเนโกะนำโชค (Lucky Neko) จากค่าย Pocket Gaming หรือ PG Slot",
+  "description": "รีวิว สล็อตโชคชะตาแห่งตะวันและจันทรา (Destiny of Sun and Moon) – PG Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Lucky Neko",
-    "สล็อตแมว"
+    "Destiny of Sun and Moon",
+    "สล็อตโชคชะตาแห่งตะวันและจันทรา"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

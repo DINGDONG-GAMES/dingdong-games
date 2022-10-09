@@ -1,15 +1,15 @@
 {
-  "name": "cocktailnights-pgslot",
-  "main": "รีวิว สล็อตค่ำคืนค็อกเทล (Cocktail Nights) - PG Slot",
+  "name": "farminvaders-pgslot",
+  "main": "รีวิว สล็อตผู้บุกรุกฟาร์ม (Farm Invaders) – Pg Slot",
   "theme": "ui",
   "version": "11.62.0",
-  "description": "รีวิว สล็อตค่ำคืนค็อกเทล (Cocktail Nights) - PG Slot",
+  "description": "รีวิว สล็อตผู้บุกรุกฟาร์ม (Farm Invaders) – Pg Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Cocktail Nights",
-    "สล็อตค่ำคืนค็อกเทล"
+    "Farm Invaders",
+    "สล็อตผู้บุกรุกฟาร์ม"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

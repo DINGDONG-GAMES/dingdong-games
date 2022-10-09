@@ -1,15 +1,15 @@
 {
-  "name": "phoenixrises-pgslot",
-  "main": "รีวิว สล็อตฟีนิกซ์ทะยาน (Phoenix Rises) – Pg Slot",
+  "name": "treeoffortune-pgslot",
+  "main": "รีวิว สล็อตต้นไม้แห่งโชคลาภ (Tree Of Fortune) – Pg Slot",
   "theme": "ui",
   "version": "11.74.0",
-  "description": "รีวิว สล็อตฟีนิกซ์ทะยาน (Phoenix Rises) – Pg Slot",
+  "description": "รีวิว สล็อตต้นไม้แห่งโชคลาภ (Tree Of Fortune) – Pg Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Phoenix Rises",
-    "สล็อตฟีนิกซ์ทะยาน"
+    "Tree Of Fortune",
+    "สล็อตต้นไม้แห่งโชคลาภ"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

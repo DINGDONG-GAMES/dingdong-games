@@ -1,15 +1,15 @@
 {
-  "name": "legendofhouyi-pgslot",
-  "main": "รีวิว สล็อตตำนานแห่งโฮ่วอี้ (Legend Of Hou Yi) – Pg Slot",
+  "name": "shaolinsoccer-pgslot",
+  "main": "รีวิว สล็อตเส้าหลินซ็อกเกอร์ (Shaolin Soccer) – Pg Slot",
   "theme": "ui",
   "version": "11.65.0",
-  "description": "รีวิว สล็อตตำนานแห่งโฮ่วอี้ (Legend Of Hou Yi) – Pg Slot",
+  "description": "รีวิว สล็อตเส้าหลินซ็อกเกอร์ (Shaolin Soccer) – Pg Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Legend Of Hou Yi",
-    "สล็อตตำนานแห่งโฮ่วอี้"
+    "Shaolin Soccer",
+    "สล็อตเส้าหลินซ็อกเกอร์"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

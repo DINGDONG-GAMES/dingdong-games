@@ -1,15 +1,15 @@
 {
-  "name": "doublefortune-pgslot",
-  "main": "รีวิว สล็อตโชคลาภคูณสอง (Double Fortune) – Pg Slot",
+  "name": "gemsaviour-pgslot",
+  "main": "รีวิว สล็อตอัญมณีผู้พิชิต (Gem Saviour) – Pg Slot",
   "theme": "ui",
   "version": "11.80.0",
-  "description": "รีวิว สล็อตโชคลาภคูณสอง (Double Fortune) – Pg Slot",
+  "description": "รีวิว สล็อตอัญมณีผู้พิชิต (Gem Saviour) – Pg Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Double Fortune",
-    "สล็อตคู่รัก"
+    "Gem Saviour",
+    "สล็อตอัญมณีผู้พิชิต"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

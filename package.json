@@ -1,15 +1,15 @@
 {
-  "name": "jungledelight-pgslot",
-  "main": "รีวิว สล็อตป่าแห่งความปิติ (Jungle Delight) – Pg Slot",
+  "name": "medusa-pgslot",
+  "main": "รีวิว สล็อตเมดูซ่า 1 คำสาปแห่งอาธีน่า (Medusa) – Pg Slot",
   "theme": "ui",
   "version": "11.110.0",
-  "description": "รีวิว สล็อตป่าแห่งความปิติ (Jungle Delight) – Pg Slot",
+  "description": "รีวิว สล็อตเมดูซ่า 1 คำสาปแห่งอาธีน่า (Medusa) – Pg Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Jungle Delight",
-    "สล็อตป่าแห่งความปิติ"
+    "Medusa",
+    "สล็อตเมดูซ่า"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

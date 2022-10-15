@@ -1,15 +1,15 @@
 {
-  "name": "prosperity-pgslot",
-  "main": "รีวิว สล็อตราชสีห์แห่งความมั่งคั่ง (Prosperity Lion) - PG Slot",
+  "name": "crypto-pgslot",
+  "main": "รีวิว สล็อตคริปโตโกลด์ (Crypto Gold) – PG Slot",
   "theme": "ui",
   "version": "11.116.0",
-  "description": "รีวิว สล็อตราชสีห์แห่งความมั่งคั่ง (Prosperity Lion) - PG Slot",
+  "description": "รีวิว สล็อตคริปโตโกลด์ (Crypto Gold) – PG Slot",
   "keywords": [
     "Pocket Gaming",
     "Pocket Soft",
     "PG Soft",
-    "Prosperity Lion",
-    "สล็อตราชสีห์แห่งความมั่งคั่ง"
+    "Crypto Gold",
+    "สล็อตคริปโตโกลด์"
   ],
   "repository": "https://github.com/DDPromote/dingdong888",
   "license": "MIT",

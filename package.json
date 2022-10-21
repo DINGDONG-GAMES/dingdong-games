@@ -1,17 +1,16 @@
 {
-  "name": "thairiverwonders-pgslot",
-  "main": "รีวิว สล็อตมหัศจรรย์แม่น้ำไทย (Thai River Wonders) – PG Slot",
+  "name": "dingdong888",
+  "main": "DINGDONG888 เว็บซื้อหวยออนไลน์จ่ายจริง ไม่มีเลขปิดรับ ไม่มีเลขอั้น อัตราจ่ายสูง 900/95 ทุกประเภทหวยออนไลน์บนเว็บ มีทั้งหวยออนไลน์ สล็อต คาสิโน บาคาร่า",
   "theme": "ui",
-  "version": "11.127.0",
-  "description": "รีวิว สล็อตมหัศจรรย์แม่น้ำไทย (Thai River Wonders) – PG Slot",
+  "version": "8.7.8",
+  "description": "DINGDONG888 เว็บซื้อหวยออนไลน์จ่ายจริง ไม่มีเลขปิดรับ ไม่มีเลขอั้น อัตราจ่ายสูง 900/95 ทุกประเภทหวยออนไลน์บนเว็บ มีทั้งหวยออนไลน์ สล็อต คาสิโน บาคาร่า",
   "keywords": [
-    "Pocket Gaming",
-    "Pocket Soft",
-    "PG Soft",
-    "Thai River Wonders",
-    "สล็อตมหัศจรรย์แม่น้ำไทย"
+    "DINGDONG888",
+    "ซื้อหวยออนไลน์",
+    "แทงหวยออนไลน์",
+    "เว็บหวยออนไลน์จ่ายจริง"
   ],
-  "repository": "https://github.com/DDPromote/dingdong888",
+  "repository": "https://github.com/DINGDONG-GAMES/dingdong-games.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
